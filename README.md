@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Avadheshkumar7399/Avadheshkumar7399/blob/main/avadhesh.png" alt="Avadhesh Patel Banner" width="100%" height="200" />
+  <img src="https://github.com/Avadheshkumar7399/Avadheshkumar7399/blob/main/banner.png" alt="Avadhesh Patel Banner" width="100%" height="300 />
 </p>
 
 
