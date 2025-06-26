@@ -3,7 +3,6 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Avadhesh Patel</h1>
 <h3 align="center">I'm a passionate **Full-Stack Developer** with 3+ years of experience building **scalable web applications**, **REST APIs**, and **automation tools**. I love turning complex problems into elegant, efficient solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avadheshkumar7399&label=Profile%20views&color=0e75b6&style=flat" alt="avadheshkumar7399" /> </p>
