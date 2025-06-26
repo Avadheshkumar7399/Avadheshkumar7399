@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Avadheshkumar7399/Avadheshkumar7399/blob/main/images/avadhesh.png" alt="Avadhesh Patel Banner" style="max-width:100%;" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Avadhesh Patel</h1>
 <h3 align="center">I'm a passionate **Full-Stack Developer** with 3+ years of experience building **scalable web applications**, **REST APIs**, and **automation tools**. I love turning complex problems into elegant, efficient solutions.</h3>
 
